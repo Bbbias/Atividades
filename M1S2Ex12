@@ -25,11 +25,3 @@
 for(let value of arr){
     console.log(value)
 } 
-
-/* while (arr = [12, 67, 23, 32], arr<[2]){
-     console.log([arr]);
-     arr++
-     };*/
-
-
-
